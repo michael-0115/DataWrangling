@@ -7,6 +7,8 @@ The data that we provide contains 2,500 patents. Each patent contains a large am
 * Task 3: Identify number of patent citation
 * Task 4: Extract and preprocess abstracts (Abstract provides important information that can assist in learning the citation network. In this task, you are required to extract all the abstracts for all the patents, and then process and store those abstracts as sparse count vectors. )
 
+* Note: datafile "patents.xml" not uploaded yet.
+
 
 #### 002_Parsing and Cleansing Raw Data	Add files via upload	a minute ago
 To wrangle a large set of property sales records stored in an unknown format and with unknown data quality issues.
